@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://demo.awethemes.net/awesome</title>
+  <link>http://demo.awethemes.net/awesome</link>
+
+<item>
+     <link>http://demo.awethemes.net/awesome/</link>
+     <title>Awesome | An Awesome Multipurpose Template</title>
+     <description>Awesome | An Awesome Multipurpose Template</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/index.html</link>
+     <title>Awesome | An Awesome Multipurpose Template</title>
+     <description>Awesome | An Awesome Multipurpose Template</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/singlepage1.html</link>
+     <title>Awesome | Onepage 1</title>
+     <description>Awesome | Onepage 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/singlepage2.html</link>
+     <title>Awesome | Onepage 2</title>
+     <description>Awesome | Onepage 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/singlepage3.html</link>
+     <title>Awesome | Onepage 3</title>
+     <description>Awesome | Onepage 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/singlepage4.html</link>
+     <title>Awesome | Onepage 4</title>
+     <description>Awesome | Onepage 4</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/singlepage5.html</link>
+     <title>Awesome | Onepage 5</title>
+     <description>Awesome | Onepage 5</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-portfolio.html</link>
+     <title>Awesome | Portfolio</title>
+     <description>Awesome | Portfolio</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-blog.html</link>
+     <title>Awesome | Blog</title>
+     <description>Awesome | Blog</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-magazine.html</link>
+     <title>Awesome | Magazine</title>
+     <description>Awesome | Magazine</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-shop.html</link>
+     <title>Awesome | Shop</title>
+     <description>Awesome | Shop</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-banner1.html</link>
+     <title>Awesome | Banner 1</title>
+     <description>Awesome | Banner 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-banner2.html</link>
+     <title>Awesome | Banner 2</title>
+     <description>Awesome | Banner 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-banner3.html</link>
+     <title>Awesome | Banner 3</title>
+     <description>Awesome | Banner 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-content.html</link>
+     <title>Awesome | Content</title>
+     <description>Awesome | Content</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-boxed.html</link>
+     <title>Awesome | Boxed Layout</title>
+     <description>Awesome | Boxed Layout</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-sidebar-left.html</link>
+     <title>Awesome | Sidebar Left</title>
+     <description>Awesome | Sidebar Left</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/home-sidebar-right.html</link>
+     <title>Awesome | Sidebar Right</title>
+     <description>Awesome | Sidebar Right</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/about-me.html</link>
+     <title>Awesome | About Me</title>
+     <description>Awesome | About Me</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/about-us.html</link>
+     <title>Awesome | About Us</title>
+     <description>Awesome | About Us</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/our-team.html</link>
+     <title>Awesome | Our Team</title>
+     <description>Awesome | Our Team</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/member-detail.html</link>
+     <title>Awesome | Member Detail</title>
+     <description>Awesome | Member Detail</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/our-clients.html</link>
+     <title>Awesome | Our Clients</title>
+     <description>Awesome | Our Clients</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/client-detail.html</link>
+     <title>Awesome | Client Detail</title>
+     <description>Awesome | Client Detail</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/services.html</link>
+     <title>Awesome | Services</title>
+     <description>Awesome | Services</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/profile-dashboard.html</link>
+     <title>Awesome | Profile Dashboard</title>
+     <description>Awesome | Profile Dashboard</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/profile-projects.html</link>
+     <title>Awesome | Profile Projects</title>
+     <description>Awesome | Profile Projects</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/profile-settings.html</link>
+     <title>Awesome | Profile Settings</title>
+     <description>Awesome | Profile Settings</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/pricing-default.html</link>
+     <title>Awesome | Pricing Default</title>
+     <description>Awesome | Pricing Default</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/pricing-large.html</link>
+     <title>Awesome | Pricing Large</title>
+     <description>Awesome | Pricing Large</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/pricing-flat.html</link>
+     <title>Awesome | Pricing Flat</title>
+     <description>Awesome | Pricing Flat</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/email1.html</link>
+     <title>Awesome | Email 1</title>
+     <description>Awesome | Email 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/email2.html</link>
+     <title>Awesome | Email 2</title>
+     <description>Awesome | Email 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/email3.html</link>
+     <title>Awesome | Email 3</title>
+     <description>Awesome | Email 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/email4.html</link>
+     <title>Awesome | Email 4</title>
+     <description>Awesome | Email 4</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/email5.html</link>
+     <title>Awesome | An Awesome Multipurpose Template</title>
+     <description>Awesome | An Awesome Multipurpose Template</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/jobs.html</link>
+     <title>Awesome | Jobs</title>
+     <description>Awesome | Jobs</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/job-detail.html</link>
+     <title>Awesome | Job Detail</title>
+     <description>Awesome | Job Detail</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/testimonial1.html</link>
+     <title>Awesome | Testimonial 1</title>
+     <description>Awesome | Testimonial 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/testimonial2.html</link>
+     <title>Awesome | Testimonial 2</title>
+     <description>Awesome | Testimonial 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/coming-soon1.html</link>
+     <title>Awesome | Comingsoon 1</title>
+     <description>Awesome | Comingsoon 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/coming-soon2.html</link>
+     <title>Awesome | Cominsoon 2</title>
+     <description>Awesome | Cominsoon 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/coming-soon3.html</link>
+     <title>Awesome | Comingsoon 3</title>
+     <description>Awesome | Comingsoon 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/login1.html</link>
+     <title>Awesome | Login 1</title>
+     <description>Awesome | Login 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/login2.html</link>
+     <title>Awesome | Login 2</title>
+     <description>Awesome | Login 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/register1.html</link>
+     <title>Awesome | Register 1</title>
+     <description>Awesome | Register 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/register2.html</link>
+     <title>Awesome | Register 2</title>
+     <description>Awesome | Register 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/forgot-password1.html</link>
+     <title>Awesome | Forgot Password 1</title>
+     <description>Awesome | Forgot Password 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/forgot-password2.html</link>
+     <title>Awesome | Forgot Password 2</title>
+     <description>Awesome | Forgot Password 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/error-404-1.html</link>
+     <title>Awesome | 404 Error 1</title>
+     <description>Awesome | 404 Error 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/error-404-2.html</link>
+     <title>Awesome | 404 Error 2</title>
+     <description>Awesome | 404 Error 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/error-500-1.html</link>
+     <title>Awesome | 500 Error 1</title>
+     <description>Awesome | 500 Error 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/error-500-2.html</link>
+     <title>Awesome | 500 Error 2</title>
+     <description>Awesome | 500 Error 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/privacy-policy.html</link>
+     <title>Awesome | Privacy Policy</title>
+     <description>Awesome | Privacy Policy</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/terms-conditions.html</link>
+     <title>Awesome | Terms &amp; Conditions</title>
+     <description>Awesome | Terms &amp; Conditions</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/header1.html</link>
+     <title>Awesome | Header 1</title>
+     <description>Awesome | Header 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/header2.html</link>
+     <title>Awesome | Header 2</title>
+     <description>Awesome | Header 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/header3.html</link>
+     <title>Awesome | Header 3</title>
+     <description>Awesome | Header 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/header4.html</link>
+     <title>Awesome | Header 4</title>
+     <description>Awesome | Header 4</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/accordion.html</link>
+     <title>Awesome | Accordion</title>
+     <description>Awesome | Accordion</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/tabs.html</link>
+     <title>Awesome | Tabs</title>
+     <description>Awesome | Tabs</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/alerts.html</link>
+     <title>Awesome | Alerts</title>
+     <description>Awesome | Alerts</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/carousels.html</link>
+     <title>Awesome | Carousels</title>
+     <description>Awesome | Carousels</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/columns.html</link>
+     <title>Awesome | Columns</title>
+     <description>Awesome | Columns</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/pagination.html</link>
+     <title>Awesome | Pagination</title>
+     <description>Awesome | Pagination</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/google-maps.html</link>
+     <title>Awesome | Google Maps</title>
+     <description>Awesome | Google Maps</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/vector-maps.html</link>
+     <title>Awesome | Vector Maps</title>
+     <description>Awesome | Vector Maps</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/lists.html</link>
+     <title>Awesome | Lists</title>
+     <description>Awesome | Lists</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/thumbnails.html</link>
+     <title>Awesome | Thumbnails </title>
+     <description>Awesome | Thumbnails </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/others.html</link>
+     <title>Awesome | Elements</title>
+     <description>Awesome | Elements</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/typography.html</link>
+     <title>Awesome | Typogarphy</title>
+     <description>Awesome | Typogarphy</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/buttons.html</link>
+     <title>Awesome | Buttons</title>
+     <description>Awesome | Buttons</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/icons.html</link>
+     <title>Awesome | Icons</title>
+     <description>Awesome | Icons</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/forms.html</link>
+     <title>Awesome | Forms</title>
+     <description>Awesome | Forms</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/tables.html</link>
+     <title>Awesome | Tables</title>
+     <description>Awesome | Tables</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/charts.html</link>
+     <title>Awesome | Charts</title>
+     <description>Awesome | Charts</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/charts1.html</link>
+     <title>Awesome | Charts 1</title>
+     <description>Awesome | Charts 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/count-down.html</link>
+     <title>Awesome | Count Down</title>
+     <description>Awesome | Count Down</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-2columns.html</link>
+     <title>Awesome | Portfolio 2 Columns</title>
+     <description>Awesome | Portfolio 2 Columns</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-2columns-fluid.html</link>
+     <title>Awesome | Portfolio 2 Columns Fluid</title>
+     <description>Awesome | Portfolio 2 Columns Fluid</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-2columns-desc.html</link>
+     <title>Awesome | Portfolio 2 Columns Description</title>
+     <description>Awesome | Portfolio 2 Columns Description</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-3columns.html</link>
+     <title>Awesome | Portfolio 3 Columns</title>
+     <description>Awesome | Portfolio 3 Columns</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-3columns-fluid.html</link>
+     <title>Awesome | Portfolio 3 Columns Fluid</title>
+     <description>Awesome | Portfolio 3 Columns Fluid</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-3columns-desc.html</link>
+     <title>Awesome | Portfolio 3 Columns Desc</title>
+     <description>Awesome | Portfolio 3 Columns Desc</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-4columns.html</link>
+     <title>Awesome | Portfolio 4 Columns</title>
+     <description>Awesome | Portfolio 4 Columns</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-4columns-fluid.html</link>
+     <title>Awesome | Portfolio 4 Columns Fluid</title>
+     <description>Awesome | Portfolio 4 Columns Fluid</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-4columns-desc.html</link>
+     <title>Awesome | Portfolio 4 Columns Desc</title>
+     <description>Awesome | Portfolio 4 Columns Desc</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-detail1.html</link>
+     <title>Awesome | Portfolio Detail 1</title>
+     <description>Awesome | Portfolio Detail 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/portfolio-detail2.html</link>
+     <title>Awesome | Portfolio Detail 2</title>
+     <description>Awesome | Portfolio Detail 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/shop-products.html</link>
+     <title>Awesome | Products</title>
+     <description>Awesome | Products</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/shop-product-detail.html</link>
+     <title>Awesome | Product Detail</title>
+     <description>Awesome | Product Detail</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/shop-invoice.html</link>
+     <title>Awesome | Invoice</title>
+     <description>Awesome | Invoice</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/shop-user-profile.html</link>
+     <title>Awesome | Shop User Profile</title>
+     <description>Awesome | Shop User Profile</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/shop-user-account.html</link>
+     <title>Awesome | Shop User Account</title>
+     <description>Awesome | Shop User Account</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-large1.html</link>
+     <title>Awesome | Blog Large 1</title>
+     <description>Awesome | Blog Large 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-large2.html</link>
+     <title>Awesome | Blog Large 2</title>
+     <description>Awesome | Blog Large 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-medium.html</link>
+     <title>Awesome | Blog Medium</title>
+     <description>Awesome | Blog Medium</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-small.html</link>
+     <title>Awesome | Blog Small</title>
+     <description>Awesome | Blog Small</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-left-sidebar.html</link>
+     <title>Awesome | Blog Left Sidebar</title>
+     <description>Awesome | Blog Left Sidebar</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-right-sidebar.html</link>
+     <title>Awesome | Blog Right Sidebar</title>
+     <description>Awesome | Blog Right Sidebar</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-detail1.html</link>
+     <title>Awesome | Blog Detail 1</title>
+     <description>Awesome | Blog Detail 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-detail2.html</link>
+     <title>Awesome | Blog Detail 2</title>
+     <description>Awesome | Blog Detail 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-timeline.html</link>
+     <title>Awesome | Blog Timeline</title>
+     <description>Awesome | Blog Timeline</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/blog-masonry.html</link>
+     <title>Awesome | Blog Masonry</title>
+     <description>Awesome | Blog Masonry</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/contact1.html</link>
+     <title>Awesome | Contact 1</title>
+     <description>Awesome | Contact 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/contact2.html</link>
+     <title>Awesome | Contact 2</title>
+     <description>Awesome | Contact 2</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/contact3.html</link>
+     <title>Awesome | Contact 3</title>
+     <description>Awesome | Contact 3</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/contact4.html</link>
+     <title>Awesome | Contact 4</title>
+     <description>Awesome | Contact 4</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://demo.awethemes.net/awesome/contact5.html</link>
+     <title>Awesome | Contact 5</title>
+     <description>Awesome | Contact 5</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

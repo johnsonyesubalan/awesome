@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://demo.awethemes.net/awesome/sitemap.xml
+
