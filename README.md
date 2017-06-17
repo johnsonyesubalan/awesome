@@ -1,3 +1,3 @@
 # awesome
 Bootstrap Multipurpose Template
-http://mathanjoh.com/awesome
+http://awesome.mathanjoh.com
